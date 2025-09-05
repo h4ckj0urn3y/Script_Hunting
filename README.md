@@ -14,7 +14,7 @@ xml-json
 
 Very simple to use copy paste the request from burp and specify sourse type and to target conversion type .
 For more info : "python3 Content_type_converter.py --help"  
-![Sample Usage](Images/Screenshot From 2025-09-05 12-52-04.png)
+![Tool Output](Images/Screenshot%20From%202025-09-05%2012-52-04.png)
 
 ## js_Juice_finder.sh
 JS Automation Script for Endpoints & Secrets
